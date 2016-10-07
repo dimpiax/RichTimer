@@ -17,17 +17,17 @@ This extension of NSTimer has next useful functions:
 - - - -
 
     // once without parameters
-    NSTimer.once(1) {
+    Timer.once(1) {
         print("I have fired after 1 second")
     }
 
     // once with parameters
-    NSTimer.once(3, arguments: (magicNumber: 4, text: "Passed text to closure")) { magicNumber, text in
+    Timer.once(3, arguments: (magicNumber: 4, text: "Passed text to closure")) { magicNumber, text in
         print("I have magic number: \(magicNumber) and received this: \(text)")
     }
     
     // every without parameters
-    NSTimer.every(10) {
+    Timer.every(10) {
         print("I'm here for forever, visit every 10 second")
     }
 
@@ -43,11 +43,11 @@ This extension of NSTimer has next useful functions:
         }
     }
     
-    timer = NSTimer.every(2, arguments: 4, completion: didFiredTimer)
+    timer = Timer.every(2, arguments: 4, completion: didFiredTimer)
 
 ## Requirements
 
-Swift 2.2 or above
+Updated to Swift 3
 
 ## Installation
 

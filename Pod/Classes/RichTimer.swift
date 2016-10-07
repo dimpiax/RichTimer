@@ -8,30 +8,30 @@
 
 import Foundation
 
-public extension NSTimer {
-    class func once(value: NSTimeInterval, completion: () -> Void) -> NSTimer {
+public extension Timer {
+    class func once(_ value: TimeInterval, completion: @escaping () -> Void) -> Timer {
         return initTimer(value, userInfo: VoidBox(nilCompletion: completion), repeats: false)
     }
     
-    class func every(value: NSTimeInterval, completion: () -> Void) -> NSTimer {
+    class func every(_ value: TimeInterval, completion: @escaping () -> Void) -> Timer {
         return initTimer(value, userInfo: VoidBox(nilCompletion: completion), repeats: true)
     }
     
-    class func once<T>(value: NSTimeInterval, arguments: T, completion: T -> Void) -> NSTimer {
+    class func once<T>(_ value: TimeInterval, arguments: T, completion: @escaping (T) -> Void) -> Timer {
         return initTimer(value, userInfo: Box(arguments, completion: completion), repeats: false)
     }
     
-    class func every<T>(value: NSTimeInterval, arguments: T, completion: T -> Void) -> NSTimer {
+    class func every<T>(_ value: TimeInterval, arguments: T, completion: @escaping (T) -> Void) -> Timer {
         return initTimer(value, userInfo: Box(arguments, completion: completion), repeats: true)
     }
     
-    class func timerDidFired(timer: NSTimer) {
+    class func timerDidFired(timer: Timer) {
         let box = timer.userInfo! as! Boxable
         box.lookInside()
     }
     
-    private class func initTimer(ti: NSTimeInterval, userInfo: AnyObject, repeats: Bool = false) -> NSTimer {
-        return NSTimer.scheduledTimerWithTimeInterval(ti, target: self, selector: #selector(timerDidFired(_:)), userInfo: userInfo, repeats: repeats)
+    private class func initTimer(_ ti: TimeInterval, userInfo: AnyObject, repeats: Bool = false) -> Timer {
+        return Timer.scheduledTimer(timeInterval: ti, target: self, selector: #selector(timerDidFired(timer:)), userInfo: userInfo, repeats: repeats)
     }
 }
 
@@ -40,7 +40,7 @@ private class VoidBox: Boxable {
     
     private var _completion: CompletionType!
     
-    init(nilCompletion completion: CompletionType) {
+    init(nilCompletion completion: @escaping CompletionType) {
         self._completion = completion
     }
     
@@ -54,12 +54,12 @@ private class VoidBox: Boxable {
 }
 
 private class Box<T>: Boxable {
-    typealias CompletionType = T -> Void
+    typealias CompletionType = (T) -> Void
     
     private var _arguments: T!
     private var _completion: CompletionType!
     
-    init(_ arguments: T!, completion: CompletionType) {
+    init(_ arguments: T!, completion: @escaping CompletionType) {
         self._arguments = arguments
         self._completion = completion
     }
