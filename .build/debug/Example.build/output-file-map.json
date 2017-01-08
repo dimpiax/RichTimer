@@ -1,0 +1,383 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/RichTimer/AppDelegate.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AppDelegate.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/RichTimer/AppDelegate.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AppDelegate~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AppDelegate.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/RichTimer/ViewController.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ViewController.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/RichTimer/ViewController.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ViewController~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ViewController.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/DSL+Wait.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL+Wait.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/DSL+Wait.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL+Wait~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL+Wait.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/DSL.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/DSL.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Expectation.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Expectation.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Expectation.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Expectation~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Expectation.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Expression.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Expression.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Expression.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Expression~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Expression.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/FailureMessage.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/FailureMessage.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/FailureMessage.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/FailureMessage~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/FailureMessage.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/ObjCExpectation.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ObjCExpectation.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/ObjCExpectation.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ObjCExpectation~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ObjCExpectation.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Callsite.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Callsite.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Callsite.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Callsite~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Callsite.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/ErrorUtility.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ErrorUtility.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/ErrorUtility.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ErrorUtility~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ErrorUtility.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Example.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Example.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Example.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Example~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Example.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/ExampleGroup.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleGroup.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/ExampleGroup.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleGroup~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleGroup.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/ExampleMetadata.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleMetadata.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/ExampleMetadata.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleMetadata~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleMetadata.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Filter.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Filter.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Filter.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Filter~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Filter.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/NSBundle+CurrentTestBundle.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NSBundle+CurrentTestBundle.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/NSBundle+CurrentTestBundle.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NSBundle+CurrentTestBundle~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NSBundle+CurrentTestBundle.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/QuickSelectedTestSuiteBuilder.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/QuickSelectedTestSuiteBuilder.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/QuickSelectedTestSuiteBuilder.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/QuickSelectedTestSuiteBuilder~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/QuickSelectedTestSuiteBuilder.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/QuickTestSuite.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/QuickTestSuite.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/QuickTestSuite.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/QuickTestSuite~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/QuickTestSuite.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/String+FileName.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/String+FileName.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/String+FileName.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/String+FileName~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/String+FileName.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/World.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/World.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/World.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/World~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/World.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Adapters/AdapterProtocols.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AdapterProtocols.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Adapters/AdapterProtocols.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AdapterProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AdapterProtocols.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Adapters/AssertionDispatcher.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AssertionDispatcher.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Adapters/AssertionDispatcher.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AssertionDispatcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AssertionDispatcher.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Adapters/AssertionRecorder.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AssertionRecorder.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Adapters/AssertionRecorder.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AssertionRecorder~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AssertionRecorder.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Adapters/NimbleEnvironment.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NimbleEnvironment.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Adapters/NimbleEnvironment.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NimbleEnvironment~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NimbleEnvironment.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Adapters/NimbleXCTestHandler.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NimbleXCTestHandler.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Adapters/NimbleXCTestHandler.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NimbleXCTestHandler~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/NimbleXCTestHandler.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/AllPass.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AllPass.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/AllPass.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AllPass~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AllPass.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeAKindOf.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeAKindOf.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeAKindOf.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeAKindOf~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeAKindOf.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeAnInstanceOf.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeAnInstanceOf.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeAnInstanceOf.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeAnInstanceOf~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeAnInstanceOf.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeCloseTo.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeCloseTo.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeCloseTo.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeCloseTo~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeCloseTo.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeEmpty.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeEmpty.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeEmpty.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeEmpty~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeEmpty.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeginWith.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeginWith.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeginWith.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeginWith~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeginWith.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeGreaterThan.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeGreaterThan.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeGreaterThan.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeGreaterThan~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeGreaterThan.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeGreaterThanOrEqualTo.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeGreaterThanOrEqualTo.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeGreaterThanOrEqualTo.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeGreaterThanOrEqualTo~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeGreaterThanOrEqualTo.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeIdenticalTo.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeIdenticalTo.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeIdenticalTo.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeIdenticalTo~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeIdenticalTo.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeLessThan.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLessThan.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeLessThan.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLessThan~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLessThan.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeLessThanOrEqual.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLessThanOrEqual.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeLessThanOrEqual.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLessThanOrEqual~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLessThanOrEqual.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeLogical.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLogical.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeLogical.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLogical~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeLogical.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeNil.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeNil.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeNil.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeNil~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeNil.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/BeVoid.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeVoid.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/BeVoid.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeVoid~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/BeVoid.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/Contain.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Contain.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/Contain.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Contain~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Contain.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/EndWith.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/EndWith.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/EndWith.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/EndWith~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/EndWith.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/Equal.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Equal.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/Equal.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Equal~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Equal.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/HaveCount.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/HaveCount.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/HaveCount.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/HaveCount~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/HaveCount.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/Match.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Match.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/Match.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Match~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Match.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/MatcherProtocols.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/MatcherProtocols.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/MatcherProtocols.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/MatcherProtocols~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/MatcherProtocols.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/PostNotification.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/PostNotification.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/PostNotification.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/PostNotification~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/PostNotification.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/RaisesException.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/RaisesException.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/RaisesException.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/RaisesException~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/RaisesException.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/SatisfyAnyOf.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SatisfyAnyOf.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/SatisfyAnyOf.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SatisfyAnyOf~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SatisfyAnyOf.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Matchers/ThrowError.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ThrowError.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Matchers/ThrowError.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ThrowError~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ThrowError.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Utils/Async.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Async.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Utils/Async.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Async~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Async.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Utils/ExceptionCapture.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExceptionCapture.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Utils/ExceptionCapture.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExceptionCapture~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExceptionCapture.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Utils/Functional.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Functional.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Utils/Functional.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Functional~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Functional.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Utils/SourceLocation.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SourceLocation.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Utils/SourceLocation.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SourceLocation~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SourceLocation.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Utils/Stringers.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Stringers.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Utils/Stringers.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Stringers~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Stringers.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Wrappers/AsyncMatcherWrapper.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AsyncMatcherWrapper.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Wrappers/AsyncMatcherWrapper.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AsyncMatcherWrapper~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/AsyncMatcherWrapper.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Wrappers/MatcherFunc.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/MatcherFunc.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Wrappers/MatcherFunc.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/MatcherFunc~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/MatcherFunc.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Nimble/Sources/Nimble/Wrappers/ObjCMatcher.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ObjCMatcher.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Nimble/Sources/Nimble/Wrappers/ObjCMatcher.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ObjCMatcher~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ObjCMatcher.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Configuration/Configuration.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Configuration.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Configuration/Configuration.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Configuration~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Configuration.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/DSL/DSL.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/DSL/DSL.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/DSL.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/DSL/World+DSL.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/World+DSL.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/DSL/World+DSL.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/World+DSL~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/World+DSL.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Hooks/Closures.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Closures.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Hooks/Closures.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Closures~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Closures.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Hooks/ExampleHooks.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleHooks.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Hooks/ExampleHooks.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleHooks~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/ExampleHooks.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Hooks/HooksPhase.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/HooksPhase.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Hooks/HooksPhase.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/HooksPhase~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/HooksPhase.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Example/Pods/Quick/Sources/Quick/Hooks/SuiteHooks.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SuiteHooks.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/Pods/Quick/Sources/Quick/Hooks/SuiteHooks.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SuiteHooks~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Example.build/SuiteHooks.swiftdeps"
+  }
+}

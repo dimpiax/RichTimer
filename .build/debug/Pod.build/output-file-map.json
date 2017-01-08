@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Pod.build/master.swiftdeps"
+  },
+  "/Users/mac/Documents/Work/iOS/RichTimer/Pod/Classes/RichTimer.swift": {
+    "dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Pod.build/RichTimer.d",
+    "object": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Pod.build/Classes/RichTimer.swift.o",
+    "swiftmodule": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Pod.build/RichTimer~partial.swiftmodule",
+    "swift-dependencies": "/Users/mac/Documents/Work/iOS/RichTimer/.build/debug/Pod.build/RichTimer.swiftdeps"
+  }
+}

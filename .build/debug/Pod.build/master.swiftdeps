@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0-dev (LLVM b010debd0e, Clang 3e4d01d89b, Swift 7182c58cb2)"
+options: "13367db875a98975d1e501931957640b"
+build_time: [512902267, 867578000]
+inputs:
+  "/Users/mac/Documents/Work/iOS/RichTimer/Pod/Classes/RichTimer.swift": !dirty [512843099, 0]
