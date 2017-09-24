@@ -47,7 +47,7 @@ This extension of NSTimer has next useful functions:
 
 ## Requirements
 
-Updated to Swift 3
+Updated to Swift 4
 
 ## Installation
 

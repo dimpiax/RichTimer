@@ -25,7 +25,7 @@ public extension Timer {
         return initTimer(value, userInfo: Box(arguments, completion: completion), repeats: true)
     }
     
-    class func timerDidFired(timer: Timer) {
+    @objc class func timerDidFired(timer: Timer) {
         let box = timer.userInfo! as! Boxable
         box.lookInside()
     }

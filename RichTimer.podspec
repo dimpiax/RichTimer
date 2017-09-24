@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "RichTimer"
-  s.version          = "1.0.1"
+  s.version          = "1.0.2"
   s.summary          = "An Extension on `NSTimer` that manage and accepts generic parameters"
   s.description      = <<-DESC
                             RichTimer – it's easy NSTimer managment and compact visual appearance.
